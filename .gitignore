@@ -1,0 +1,10 @@
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*/.vs/
+*/x64/
+*/Debug/
+ipch/
+x64/
+*.pch
+*.sdf
